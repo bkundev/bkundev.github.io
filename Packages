@@ -6,9 +6,9 @@ Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Filename: debs/com.yourcompany.com.nhuantin.email_0.0.1-60+debug_iphoneos-arm.deb
 Size: 151904
-MD5sum: 
-SHA1: 
-SHA256: 
+MD5sum: 35654E4B05BC66AFFE875251F4BA7426
+SHA1: E76595453FD2E28908084F1759B8D48B500896F4
+SHA256: 782A61DE594904735607B2236322BF1168DE9F8A0A869F1786B5845EF55E1CEC
 Description: Restore App Chrome
 Name: Nhuận Tín
 Author: BacKunDev95
