@@ -1,33 +1,14 @@
-Package: com.haoict.messengernoads
-Version: 3.6.0
-Architecture: iphoneos-arm
-Maintainer: Hao Nguyen
-Installed-Size: 968
-Depends: mobilesubstrate, com.haoict.libhdev (>= 4.1.0), firmware (>= 10)
-Conflicts: com.haoict.messengernoads
-Filename: ./debs/com.haoict.messengernoads_3.6.0_iphoneos-arm.deb
-Size: 537896
-MD5sum: 6d4d626ea90bf66e14d921aae2379709
-SHA1: fa1ed3da1ba0ef6c6f63bb52563b5bdd8d4f655e
-SHA256: dea2292b57fa26d5cf14bfef1f13a069dc14b732db6599d9439fc0e2ae630e8b
+Package: com.yourcompany.com.nhuantin.email
+Version: 1.0
 Section: Tweaks
-Description: The best tweak for Messenger app.
- The best tweak for Messenger app.
- * Tap on your profile picture at the top-left corner of the screen to access settings
- Features:
- - Hide Ads on Messenger app
- - Disable Read Receipt
- - Disable Typing Indicator
- - Disable Story Seen Receipt
- - Can Save Friend's Story
- - Hide Search Bar, Stories row, People tab
- - Extend Story Video Upload Length (from default is 20 seconds to 10 minutes)
- - Support iOS 10 (not tested) - 11 (tested) - 12 (tested) - 13 (tested)
- - Support latest Messenger version (If it doesn't work, you should update the app to latest version >= 258.0)
- .
- I work very hard to make good, free and open source tweaks for everyone
- If you want to support, you can buy me a coffee at https://www.paypal.me/backunit
- .
- Thanks a ton
-Author: Hao Nguyen
-Name: Messenger No Ads
+Maintainer: BacKunDev95
+Architecture: iphoneos-arm 
+Depends: mobilesubstrate
+Filename: debs/com.yourcompany.com.nhuantin.email_0.0.1-60+debug_iphoneos-arm.deb
+Size: 151904
+MD5sum: e9591ec1104cb1224549cc7ab26a740d
+SHA1: 87f4b490395455f707034cfbbddbb02f94c7e790
+SHA256: 5ba4922cb5d6475c19b4d1f37537e6deed147a992991bcb59a896342f3090fe8
+Description: Restore App Chrome
+Name: Nhuận Tín
+Author: BacKunDev95
